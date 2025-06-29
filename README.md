@@ -63,7 +63,7 @@ It’s a collection of 4 bite-sized tools designed to solve everyday money probl
  👥 Bill Batwara – Split the bill evenly after that weekend hangout
 
 🧰 Tech Stack:
- HTML5 | CSS | JavaScript
+ HTML5 | PicoCSS | JavaScript
 Each tool has its own page, connected through a simple navbar. It was a great learning experience in form handling, calculations, and writing event-driven logic.
 
  📁 CodeSandBox repo : https://codesandbox.io/p/sandbox/nostalgic-fire-82nk6m 
